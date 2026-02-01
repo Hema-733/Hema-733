@@ -16,11 +16,10 @@ I am a 2st-year Computer Science and Engineering student at **Bannari Amman Inst
 
 ### 📂 Featured Projects
 
-#### 💰 [Expense Tracker](https://github.com/Hema-733/Expense-Tracker)
+#### 💰 [Budget Tracker](https://github.com/Hema-733/Budget_Tracker)
 - A real-time web application to manage income and expenses.
 - **Tech Stack:** HTML, CSS, Vanilla JavaScript, LocalStorage.
-- **Live Demo:** [View App](https://Hema-733.github.io/Expense-Tracker/)
-
+- **Live Demo:** [View App](https://hema-733.github.io/Budget_Tracker/index.html)
 
 ---
 

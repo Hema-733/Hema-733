@@ -1,6 +1,6 @@
 # Hema Varshana R
 
-### Computer Science Engineering Student | Frontend Developer | AI/GenAI Developer | Full-Stack Developer
+### Computer Science Engineering Student | AI/GenAI Developer | Full-Stack Developer
 
 I am a third-year Computer Science Engineering student at **Bannari Amman Institute of Technology, Sathyamangalam**. I am interested in building practical web applications and AI-powered solutions, with a focus on frontend development, full-stack development, and AI/GenAI integration.
 

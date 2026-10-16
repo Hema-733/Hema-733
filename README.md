@@ -32,23 +32,23 @@ I am a third-year Computer Science Engineering student at **Bannari Amman Instit
 
 ### Frontend Development
 
-`React` `React Router` `HTML5` `CSS3` `Tailwind CSS` `Axios` `API Integration` `localStorage`
+`React` `HTML5` `CSS3` `Tailwind CSS` 
 
 ### Backend Development
 
-`Node.js` `Express.js` `FastAPI` `REST APIs` `Sequelize`
+`Node.js` `Express.js` `FastAPI` `REST APIs`
 
 ### Database
 
-`PostgreSQL` `SQL`
+`MYSQL`
 
 ### AI, GenAI and Machine Learning
 
-`Machine Learning` `NLP` `RAG` `Semantic Search` `Vector Embeddings` `Sentence Transformers` `LLM Integration` `Groq API` `Prompt Engineering` `Streamlit`
+`Machine Learning` `Groq API` `Prompt Engineering` `Streamlit`
 
 ### Authentication and Security
 
-`JWT` `bcrypt`
+`JWT`
 
 ### Developer Tools
 
@@ -101,7 +101,7 @@ I am a third-year Computer Science Engineering student at **Bannari Amman Instit
 ### Budget Tracker Web Application
 
 **Tech Stack:**  
-`HTML5` `CSS3` `JavaScript` `localStorage`
+`HTML5` `CSS3` `JavaScript`
 
 - Built a responsive web application for tracking income and expenses.
 - Implemented persistent browser storage using localStorage.
@@ -128,14 +128,6 @@ I am a third-year Computer Science Engineering student at **Bannari Amman Instit
 - Managed PostgreSQL data using Sequelize ORM.
 
 [View Repository](https://github.com/Hema-733/college-hostel-management-system)
-
----
-
-## Portfolio
-
-My portfolio contains my projects, technical skills, education, resume, and developer profile.
-
-[Visit My Portfolio](https://github.com/Hema-733/Portfolio)
 
 ---
 
